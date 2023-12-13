@@ -4,6 +4,7 @@ Si quieren probar la logica, la seccion "seguimiento de casos" funciona unicamen
 ![image](https://github.com/antemortem22/ResponsiveWeb-Exam/assets/80971815/4ef016a8-6498-4968-aadd-56ea5ec0ebc0)
 
 El log in funciona unicamente con:
+
 usuario: evelin 
 password: 123 
 
