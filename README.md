@@ -6,6 +6,6 @@ Si quieren probar la logica, la seccion "seguimiento de casos" funciona unicamen
 El log in funciona unicamente con:
 usuario: evelin 
 password: 123 
--
+
 usuario: eduardo 
 password: 456
